@@ -22,7 +22,7 @@ wget https://jams.network/dl/forgdef.py
 wget https://jams.network/dl/forgdeg.json
 wget https://jams.network/dl/forgery_defender-1.0-fx.xpi
 chmod 755 forgdef.py
-chmod 755 forgdeg.json
+chmod 755 forgdef.json
 
 
 #load up Firefox and prompt user to install
